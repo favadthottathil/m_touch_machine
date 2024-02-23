@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076114266861",
+    "project_id": "mtouch-machine",
+    "storage_bucket": "mtouch-machine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076114266861:android:b8c0560afd65dab7e84ae4",
+        "android_client_info": {
+          "package_name": "com.example.mtouch_machine_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWYCsIc_9Jma5IBv4Qa5y7IU2MkxZWFDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
